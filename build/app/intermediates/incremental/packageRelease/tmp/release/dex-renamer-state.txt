@@ -1,0 +1,7 @@
+#Wed Dec 27 17:49:57 IST 2023
+base.1=/Users/nexg/flutter_projects/notification_testing/build/app/intermediates/desugar_lib_dex/release/classes1000.dex
+path.1=classes1000.dex
+base.0=/Users/nexg/flutter_projects/notification_testing/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ryanheise.audioservice.audio_service-mergeReleaseResources-11:/values-is/values-is.xml",
+            "map": [
+                {
+                    "source": "/Users/nexg/.gradle/caches/transforms-3/cf72013d765e0f69e97cd3b9cbb09800/transformed/core-1.6.0/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "601",
+                        "endColumns": "100",
+                        "endOffsets": "697"
+                    }
+                },
+                {
+                    "source": "/Users/nexg/.gradle/caches/transforms-3/3401145488c9b20eed09457e0fafba4f/transformed/jetified-media2-session-1.2.1/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,156,256,351,474",
+                        "endColumns": "100,99,94,122,126",
+                        "endOffsets": "151,251,346,469,596"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ryanheise.audioservice.audio_service-merged_res-13:/values-is/values-is.xml",
+            "map": [
+                {
+                    "source": "/Users/nexg/.gradle/caches/transforms-3/cf72013d765e0f69e97cd3b9cbb09800/transformed/core-1.6.0/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "601",
+                        "endColumns": "100",
+                        "endOffsets": "697"
+                    }
+                },
+                {
+                    "source": "/Users/nexg/.gradle/caches/transforms-3/3401145488c9b20eed09457e0fafba4f/transformed/jetified-media2-session-1.2.1/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,156,256,351,474",
+                        "endColumns": "100,99,94,122,126",
+                        "endOffsets": "151,251,346,469,596"
+                    }
+                }
+            ]
+        }
+    ]
+}

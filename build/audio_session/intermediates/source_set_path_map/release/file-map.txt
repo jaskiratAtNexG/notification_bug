@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-0 /Users/nexg/.gradle/caches/transforms-3/003a22a5515e1f77f89701a46efbc2ec/transformed/jetified-window-1.0.0-beta04/res
+com.ryanheise.audio_session-jetified-media2-common-1.2.1-1 /Users/nexg/.gradle/caches/transforms-3/18face2b5f847612828261d2d48dde4f/transformed/jetified-media2-common-1.2.1/res
+com.ryanheise.audio_session-jetified-media2-session-1.2.1-2 /Users/nexg/.gradle/caches/transforms-3/3401145488c9b20eed09457e0fafba4f/transformed/jetified-media2-session-1.2.1/res
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-3 /Users/nexg/.gradle/caches/transforms-3/3c0e35d493ccd3f2bb8b07f96b013b9c/transformed/jetified-window-java-1.0.0-beta04/res
+com.ryanheise.audio_session-media-1.4.1-4 /Users/nexg/.gradle/caches/transforms-3/3fb2d0be62cedd4a979b331a4e727e34/transformed/media-1.4.1/res
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-5 /Users/nexg/.gradle/caches/transforms-3/717758e51a3aff0b90b2556f8994e808/transformed/jetified-annotation-experimental-1.1.0/res
+com.ryanheise.audio_session-core-1.6.0-6 /Users/nexg/.gradle/caches/transforms-3/cf72013d765e0f69e97cd3b9cbb09800/transformed/core-1.6.0/res
+com.ryanheise.audio_session-main-7 /Users/nexg/.pub-cache/hosted/pub.dev/audio_session-0.1.18/android/src/main/res
+com.ryanheise.audio_session-release-8 /Users/nexg/.pub-cache/hosted/pub.dev/audio_session-0.1.18/android/src/release/res
+com.ryanheise.audio_session-pngs-9 /Users/nexg/flutter_projects/notification_testing/build/audio_session/generated/res/pngs/release
+com.ryanheise.audio_session-resValues-10 /Users/nexg/flutter_projects/notification_testing/build/audio_session/generated/res/resValues/release
+com.ryanheise.audio_session-rs-11 /Users/nexg/flutter_projects/notification_testing/build/audio_session/generated/res/rs/release
+com.ryanheise.audio_session-mergeReleaseResources-12 /Users/nexg/flutter_projects/notification_testing/build/audio_session/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 /Users/nexg/flutter_projects/notification_testing/build/audio_session/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ryanheise.audio_session-merged_res-14 /Users/nexg/flutter_projects/notification_testing/build/audio_session/intermediates/merged_res/release

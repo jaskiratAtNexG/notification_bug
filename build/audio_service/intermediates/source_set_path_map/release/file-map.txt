@@ -1,0 +1,16 @@
+com.ryanheise.audioservice.audio_service-jetified-window-1.0.0-beta04-0 /Users/nexg/.gradle/caches/transforms-3/003a22a5515e1f77f89701a46efbc2ec/transformed/jetified-window-1.0.0-beta04/res
+com.ryanheise.audioservice.audio_service-jetified-media2-common-1.2.1-1 /Users/nexg/.gradle/caches/transforms-3/18face2b5f847612828261d2d48dde4f/transformed/jetified-media2-common-1.2.1/res
+com.ryanheise.audioservice.audio_service-jetified-media2-session-1.2.1-2 /Users/nexg/.gradle/caches/transforms-3/3401145488c9b20eed09457e0fafba4f/transformed/jetified-media2-session-1.2.1/res
+com.ryanheise.audioservice.audio_service-media-1.6.0-3 /Users/nexg/.gradle/caches/transforms-3/3459ab84518e2b82da01ab539f6b6fb3/transformed/media-1.6.0/res
+com.ryanheise.audioservice.audio_service-jetified-window-java-1.0.0-beta04-4 /Users/nexg/.gradle/caches/transforms-3/3c0e35d493ccd3f2bb8b07f96b013b9c/transformed/jetified-window-java-1.0.0-beta04/res
+com.ryanheise.audioservice.audio_service-jetified-annotation-experimental-1.1.0-5 /Users/nexg/.gradle/caches/transforms-3/717758e51a3aff0b90b2556f8994e808/transformed/jetified-annotation-experimental-1.1.0/res
+com.ryanheise.audioservice.audio_service-core-1.6.0-6 /Users/nexg/.gradle/caches/transforms-3/cf72013d765e0f69e97cd3b9cbb09800/transformed/core-1.6.0/res
+com.ryanheise.audioservice.audio_service-main-7 /Users/nexg/.pub-cache/hosted/pub.dev/audio_service-0.18.12/android/src/main/res
+com.ryanheise.audioservice.audio_service-release-8 /Users/nexg/.pub-cache/hosted/pub.dev/audio_service-0.18.12/android/src/release/res
+com.ryanheise.audioservice.audio_service-pngs-9 /Users/nexg/flutter_projects/notification_testing/build/audio_service/generated/res/pngs/release
+com.ryanheise.audioservice.audio_service-resValues-10 /Users/nexg/flutter_projects/notification_testing/build/audio_service/generated/res/resValues/release
+com.ryanheise.audioservice.audio_service-rs-11 /Users/nexg/flutter_projects/notification_testing/build/audio_service/generated/res/rs/release
+com.ryanheise.audioservice.audio_service-mergeReleaseResources-12 /Users/nexg/flutter_projects/notification_testing/build/audio_service/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ryanheise.audioservice.audio_service-mergeReleaseResources-13 /Users/nexg/flutter_projects/notification_testing/build/audio_service/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ryanheise.audioservice.audio_service-merged_res-14 /Users/nexg/flutter_projects/notification_testing/build/audio_service/intermediates/merged_res/release
+com.ryanheise.audioservice.audio_service-packaged_res-15 /Users/nexg/flutter_projects/notification_testing/build/audio_session/intermediates/packaged_res/release
